@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlucardmaI
+- 👋 Hi, I’m @Jalol
 - 👀 I’m interested in learning python and C++ for physics problems.
 - 🌱 I’m currently learning python, and sunpy
 - 💞️ I’m looking to collaborate on sunpy
